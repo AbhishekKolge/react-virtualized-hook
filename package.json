@@ -1,5 +1,5 @@
 {
-  "name": "@ak05/react-virtualized-hook",
+  "name": "@abhishek_kolge/react-virtualized-hook",
   "version": "1.0.0",
   "type": "module",
   "description": "React.js custom hook to render large list efficiently.",
