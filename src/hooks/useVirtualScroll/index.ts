@@ -68,4 +68,4 @@ useVirtualScroll.PropTypes = {
   initialStart: PropTypes.number,
 };
 
-export { useVirtualScroll };
+export default useVirtualScroll;

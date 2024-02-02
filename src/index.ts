@@ -1,1 +1,3 @@
-export { useVirtualScroll } from './hooks/useVirtualScroll/';
+import useVirtualScroll from './hooks/useVirtualScroll';
+
+export { useVirtualScroll };
