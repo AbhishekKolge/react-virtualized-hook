@@ -1,0 +1,49 @@
+{
+  "name": "@ak05/react-virtualized-hook",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "React.js custom hook to render large list efficiently.",
+  "author": "Abhishek Kolge",
+  "license": "ISC",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "rollup -c",
+    "start": "rollup -c -w"
+  },
+  "peerDependencies": {
+    "react": ">= 16.8.0",
+    "react-dom": ">= 16.8.0"
+  },
+  "files": [
+    "dist"
+  ],
+  "dependencies": {
+    "prop-types": "^15.8.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.51",
+    "@types/react-dom": "^18.2.18",
+    "babel-core": "^6.26.3",
+    "babel-runtime": "^6.26.0",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "rollup": "^4.9.6",
+    "rollup-plugin-sass": "^1.12.21",
+    "rollup-plugin-typescript2": "^0.36.0",
+    "rollup-plugin-uglify": "^6.0.4",
+    "typescript": "^5.3.3"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [
+    "react",
+    "react.js",
+    "hook",
+    "virtual",
+    "virtualized",
+    "list",
+    "npm"
+  ]
+}
