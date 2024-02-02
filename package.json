@@ -1,6 +1,6 @@
 {
   "name": "@abhishek_kolge/react-virtualized-hook",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "type": "module",
   "description": "React.js custom hook to render large list efficiently.",
   "author": "Abhishek Kolge",
